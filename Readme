@@ -1,3 +1,5 @@
+<p>
+<font size="5" face="verdana" color="black">
 Data and Stata replication code for Social Status and Social Learning
 by Alexei Zakharov, Oxana Bondarenko, 2020
 
@@ -38,3 +40,5 @@ Experiment instructions in Russian and in English:
 - Instructions_engl.doc
 
 Erratum.pdf - file with errors that occurred during experimental sessions
+</font>
+</p>
