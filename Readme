@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
 <p>
 <font size="5" face="verdana" color="black">
 Data and Stata replication code for Social Status and Social Learning
@@ -42,3 +45,5 @@ Experiment instructions in Russian and in English:
 Erratum.pdf - file with errors that occurred during experimental sessions
 </font>
 </p>
+</body>
+</html>
