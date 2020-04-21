@@ -1,4 +1,5 @@
-# Alexei Zakharov, Oxana Bondarenko (2020) Social Status and Social Learning
+# Alexei Zakharov, Oxana Bondarenko (2020)
+# Social Status and Social Learning
 
 ## Replication material
 
