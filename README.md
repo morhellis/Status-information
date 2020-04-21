@@ -20,7 +20,7 @@ This replication package includes:
 - `Open questions_data from sessions.xls` - answers to open questions from experimental sessions
 
 - `ztree files.rar` - experiment z-tree modules 
-- `Screenshots.pdf` - screnshots of z-tree modules
+- `Screenshots.pdf` - screenshots of z-tree modules
 
 - `replication_dataset_2019.dta` - Stata replication data file
 
