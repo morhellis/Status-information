@@ -23,6 +23,7 @@ This replication package includes:
 - `Screenshots.pdf` - screenshots of z-tree modules
 
 - `replication_dataset_2019.dta` - Stata replication data file
+- `own_f_other.dta` - Stata replication data file (for Appendix)
 
 - `replication_new.do` - Replication do.file
 
